@@ -7,7 +7,7 @@ package repoedd1;
 
 /**
  *
- * @author espe
+ * @author juanjo
  */
 public class RepoEDD1 {
 
@@ -18,7 +18,7 @@ public class RepoEDD1 {
         // TODO code application logic here
 
         	System.out.println("14-12-2018");
-
+//Añadir codigo de la practica
 
     }
     
